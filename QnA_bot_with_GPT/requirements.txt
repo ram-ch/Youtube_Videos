@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+langchain-core
+beautifulsoup4
+requests
+sentence-transformers
+pinecone-client
+colorama
